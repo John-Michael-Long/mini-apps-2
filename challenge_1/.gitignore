@@ -1,1 +1,10 @@
-public/app.js
+## Mac OS
+.DS_store
+
+##npm packages
+node_modules/
+
+##webpack default output folder
+public/
+
+
