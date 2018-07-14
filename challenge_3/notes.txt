@@ -14,6 +14,7 @@ Write tests to ensure all the nuances of the scoring rules are correctly impleme
 Advanced Content
 Add some routes to your server to save the result of each game.
 Store your scores in MongoDB, so they are not lost when the server restarts (such as reloading by nodemon). You should use the mongoose DB adapter to interface with MongoDB.
+
 Add a scoreboard view that fetches the last 30 game results from the server.
 Add pagination to the scoreboard.
 Modify the UI such that it displays the actual pins selected and when the user selects a pin quantity for a bowl, a random set of pins is selected.
